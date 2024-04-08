@@ -1,6 +1,6 @@
 # CS5008_project
 
-This is the final project of 24Spring CS5008, createed by: Kevin Yu, Danny Liao, and Mingzhe Ou
+This is the final project of 24Spring CS5008, createed by: Kevin Yu, Danny Lai, and Mingzhe Ou
 
 # A* Algorithm Implementation
 
